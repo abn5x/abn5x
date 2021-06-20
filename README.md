@@ -1,11 +1,8 @@
 ### Hi there 👋
-I worked as an intern for 3 months at Metalurgia Manufacturada as the creator of the database of products sold online. 
-
-Then I was an intern at ITP Aero, creating all the posters, symbols, icons and internal visual messages of the company in the Low Pressure Disk sector.
-
-Currently I’m deep diving in the Frontend Development World, first by studying by myself the fundamentals of JavaScript, CSS3 and HTML5. Also I'm a big fan of the VUE framework, and very interested in Design Systems such as BEM (Body, Element, Modifier) and try to learn as much as posible about Accessibility to make the WEB a more inclusive place for everyone.
-
-At the moment, I’m enrolled into “Development of Web Applications” Profesional Training. 
+🔭 I'm currently working on some amazing projects at Elite Sports 17 SL, stay tuned!
+🌱 At the momento I'm learning all kinds of amazing React libraries, such as React-Redux, React-Intl, React-Spring etc.
+📫 You can reach me at: adrian_lozovanu@yahoo.com
+🤔 I worked in ITP Aero as Graphic Designer, then in Testami.co as a Frontend Developer, and currently I'm working in Elite Sports 17 SL also as an Frontend Developer.
 <!--
 **abn5x/abn5x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
