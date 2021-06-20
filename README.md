@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I'm currently working on some amazing projects at Elite Sports 17 SL, stay tuned!
+🔭 I'm currently working on some amazing projects at Elite Sports 17 SL, stay tuned! </br>
 🌱 At the momento I'm learning all kinds of amazing React libraries, such as React-Redux, React-Intl, React-Spring etc.
 📫 You can reach me at: adrian_lozovanu@yahoo.com
 🤔 I worked in ITP Aero as Graphic Designer, then in Testami.co as a Frontend Developer, and currently I'm working in Elite Sports 17 SL also as an Frontend Developer.
